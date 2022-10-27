@@ -1,0 +1,12 @@
+C:\Users\djarl\Desktop\api\Api.Models\bin\Debug\net6.0\Api.Models.deps.json
+C:\Users\djarl\Desktop\api\Api.Models\bin\Debug\net6.0\Api.Models.dll
+C:\Users\djarl\Desktop\api\Api.Models\bin\Debug\net6.0\Api.Models.pdb
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.csproj.AssemblyReference.cache
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.AssemblyInfoInputs.cache
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.AssemblyInfo.cs
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.csproj.CoreCompileInputs.cache
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.dll
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\refint\Api.Models.dll
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\Api.Models.pdb
+C:\Users\djarl\Desktop\api\Api.Models\obj\Debug\net6.0\ref\Api.Models.dll
